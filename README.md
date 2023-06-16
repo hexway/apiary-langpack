@@ -1,6 +1,6 @@
 # Apiary language pack
 
-You can now change the display language for Apiary, using the localization files provided. 
+You can now change the display language for [Apiary](https://hexway.io/apiary/), using the localization files provided.
 
 ## Installation and configuration
 
@@ -48,11 +48,13 @@ Language pack should be updated every time, when new Apiary version is released:
     git pull
     ```
 
-## Fix translations
+##  Translations improvement
 
 Localization files are customizable.
 
 If you'd like to fix and/or improve the translations provided, you can edit the corresponding .json file.
+
+If you'd like to provide a translation for any other language, you can create a separate .json file, e.g. `it.json`, copy the field names from `en.json`, and then update the field values accordingly.
 
 Then use GitHub to send us a pull request (PR) with your changes.
 
