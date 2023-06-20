@@ -654,7 +654,7 @@
     "ReportTemplates": "Report Templates",
     "SelectStatus": "Select status",
     "SelectTemplate": "Select template",
-    "SetupTocAndPaginationM": "To set up TOC and page numbering in MS Word correctly, {0} press {1}+A then F9 and select \u201cUpdate entire table\u201d",
+    "SetupTocAndPaginationM": "To set up TOC and page numbering in MS Word correctly, {0} press {1}+A then F9 and select \"Update entire table\"",
     "Template": "Template",
     "UploadTemplate": "Upload template",
     "Uploaded": "Uploaded",
